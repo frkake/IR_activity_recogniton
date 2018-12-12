@@ -5,11 +5,10 @@ I implemented this codes while referring to [Five video classification methods i
 I couldn't code this without his github. I sincerely appriciate to [Matt Harvey](https://blog.coast.ai/@harvitronix). 
 
 ## Activity recognition by 16x16 infrared array sensor temperature map with Recurrent Convolutional Neural Networks
-The environment of collecting datasets is like Figure 1. <br>
+The environment of collecting datasets is like below figure. <br>
 <center><img src="Data/Figure1.png" width="70%"><br></center>
-<center>figure 1</center>
 
-<center><img src="Data/rgb.gif" width="70%"><img src="Data/ir.gif" width="70%"></center>
+<center><img src="Data/rgb.gif" width="30%"><img src="Data/ir.gif" width="30%"></center>
 
 And this data is collected from 7 young mans(22-23 ages). 
 The infrared array sensor is 16x16 and captures 3 fps. 
