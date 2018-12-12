@@ -6,7 +6,11 @@ I couldn't code this without his github. I sincerely appriciate to [Matt Harvey]
 
 ## Activity recognition by 16x16 infrared array sensor temperature map with Recurrent Convolutional Neural Networks
 The environment of collecting datasets is like Figure 1. <br>
-<img src="Data/Figure1.png" width="50%"><br>
+<center><img src="Data/Figure1.png" width="70%"><br></center>
+<center>figure 1</center>
+
+<center><img src="Data/rgb.gif" width="70%"><img src="Data/ir.gif" width="70%"></center>
+
 And this data is collected from 7 young mans(22-23 ages). 
 The infrared array sensor is 16x16 and captures 3 fps. 
 "Data" folder has each temperaturemap csv and the normalized(0 to 255 integer) csv files.  
