@@ -8,7 +8,9 @@ I couldn't code this without his github. I sincerely appriciate to [Matt Harvey]
 The environment of collecting datasets is like below figure. <br>
 <center><img src="Data/Figure1.png" width="70%"><br></center>
 
-<center><img src="Data/rgb.gif" width="30%"><img src="Data/ir.gif" width="30%"></center>
+<div style="text-align: center;">
+<img src="Data/rgb.gif" width="30%"><img src="Data/ir.gif" width="30%">
+</div>
 
 And this data is collected from 7 young mans(22-23 ages). 
 The infrared array sensor is 16x16 and captures 3 fps. 
