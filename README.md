@@ -9,7 +9,7 @@ The environment of collecting datasets is like below figure. <br>
 <center><img src="Data/Figure1.png" width="70%"><br></center>
 
 <div style="text-align: center;">
-<img src="Data/rgb.gif" width="25%"><img src="Data/ir.gif" width="75%">
+<img src="Data/rgb.gif" width="25%"><img src="Data/ir.gif" width="70%">
 </div>
 
 And this data is collected from 7 young mans(22-23 ages). 
