@@ -12,6 +12,8 @@ The environment of collecting datasets is like below figure. <br>
 <img src="Data/rgb.gif" width="25%"><img src="Data/ir.gif" width="70%">
 </div>
 
+This videos are not syncronized but these were captured in same time. 
+
 And this data is collected from 7 young mans(22-23 ages). 
 The infrared array sensor is 16x16 and captures 3 fps. 
 "Data" folder has each temperaturemap csv and the normalized(0 to 255 integer) csv files.  
